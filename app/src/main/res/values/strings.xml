@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Publicidade TV</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+
+    <string name="start">start</string>
+    <string name="cancel">cancel</string>
+    <string name="stop">stop record and recognize(humming)</string>
+    <string name="recording">recording</string>
+    <string name="volume">volume:</string>
+</resources>
